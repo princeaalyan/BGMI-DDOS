@@ -1,0 +1,19 @@
+{
+  "name": "telegram-bot-example",
+  "version": "1.0.0",
+  "description": "Bot Telegram dengan Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.55.0"
+  }
+}
